@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Worknoon",
+  "url": "https://worknoon.awenifoods.co.uk/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://worknoon.awenifoods.co.uk/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
