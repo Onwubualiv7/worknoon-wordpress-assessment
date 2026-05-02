@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Founder of Worknoon",
+  "jobTitle": "Founder",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "url": "https://worknoon.awenifoods.co.uk/",
+  "sameAs": [
+    "https://www.linkedin.com"
+  ]
+}
