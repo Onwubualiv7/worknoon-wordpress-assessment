@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "url": "https://worknoon.awenifoods.co.uk/",
+  "logo": "https://worknoon.awenifoods.co.uk/wp-content/uploads/2024/01/logo.png",
+  "sameAs": [
+    "https://www.linkedin.com/company/worknoon",
+    "https://twitter.com/worknoon"
+  ],
+  "description": "Worknoon is a digital solutions company focused on WordPress development, SEO optimization, and scalable web systems.",
+  "foundingDate": "2024",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "info@worknoon.com"
+  }
+}
